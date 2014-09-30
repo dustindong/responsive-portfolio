@@ -1,0 +1,27 @@
+/* Media queries go here */
+@media screen and (max-width: 800px) {
+main ul.work li {
+  width: 100%;
+}
+}
+
+@media screen and (max-width: 600px) {
+
+header .hgroup {
+  width: 100%;
+}
+header .contact {
+  padding-top: 15px;
+  width: 100%;
+}
+main .about {
+  width: 100%;
+}
+main .skills {
+  padding-top: 15px;
+  width: 100%;
+}
+main ul.work li {
+  width: 100%;
+}
+}
