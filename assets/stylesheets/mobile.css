@@ -3,6 +3,13 @@
 main ul.work li {
   width: 100%;
 }
+main .skills {
+  padding-top: 1em;
+  width: 100%;
+}
+main .about {
+  width: 100%;
+}
 }
 
 @media screen and (max-width: 600px) {
