@@ -23,18 +23,18 @@ header {
 	overflow: auto;
 }
 
-header hgroup {
+header .title {
 	width: 58.75%;
 	margin-right: 5%;
 	float: left;
 }
 
-header hgroup h1 {
+header .title h1 {
 	font-size: 2em;
 	margin-bottom: 0.5em;
 }
 
-header hgroup h2 {
+header .title h2 {
 	font-size: 1.5em;
 	color: #999;
 }
